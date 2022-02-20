@@ -1,2 +1,2 @@
 # Mech-Excercises
-Engineering Excercises solved with code
+Exercícios de Disciplinas do Curso de Engenharia Mecânica resolvidos com python
